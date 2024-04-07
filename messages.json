@@ -1,0 +1,9 @@
+[
+    {
+      "id" : 1,
+      "bundleId": "Cureton.AppExternalAlert",
+      "title": "App Alert",
+      "Text": "Warning: There is a bug in DupScore and I am working on fixing it....",
+      "confirmLabel": "OK"
+    }
+]
