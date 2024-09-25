@@ -3,7 +3,7 @@
       "id" : 1,
       "bundleId": "Cureton.DuplicateScore",
       "title": "App Alert",
-      "Text": "Warning: Testing Message ....",
+      "text": "Warning: Testing Message ....",
       "confirmLabel": "OK"
     }
 ]
