@@ -1,9 +1,9 @@
 [
     {
-      "id" : 11,
-      "bundleId": "Cureton.DuplicateScore",
-      "title": "App Alert",
-      "text": "Warning: Testing Message ....",
-      "confirmLabel": "OK"
+      "id":11,
+      "bundleId":"Cureton.DuplicateScore",
+      "title":"App Alert",
+      "text":"Warning: Testing Message ....",
+      "confirmLabel":"OK"
     }
 ]
