@@ -1,9 +1,9 @@
 [
     {
-      "id":16,
+      "id":17,
       "bundleId":"Cureton.DuplicateScore",
-      "title":"App Alert",
-      "text":"Warning: Testing Message ....",
+      "title":"DupScore Breaking News",
+      "text":"New Release 3.2.0 will be available soon!",
       "confirmLabel":"OK"
     }
 ]
