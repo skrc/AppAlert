@@ -1,18 +1,5 @@
 [
     {
-      "id": 0,
-      "bundleId":"Cureton.DuplicateScore",
-      "title":"DupScore Breaking News",
-      "text":"New Release 3.2.0 will be available soon!",
-      "confirmLabel":"OK",
-      "osVersions": ["17.0.1","18.0.1"],
-      "appVersions": ["3.1.4"],
-      "link": {
-          "title": "View more information",
-          "url" : "https://www.dupscore.com"
-      }
-    }
-    {
       "id":19,
       "bundleId":"Cureton.DuplicateScore",
       "title":"DupScore Breaking News",
