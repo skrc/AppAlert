@@ -1,9 +1,9 @@
 [
     {
-      "id":20,
+      "id":21,
       "bundleId":"Cureton.DuplicateScore",
       "title":"DupScore Breaking News",
-      "text":"New Release 3.2 Now Available! ",
+      "text":"New Release 3.2.1 Now Available! ",
       "confirmLabel":"OK",
       "link": {
           "title": "View more information",
