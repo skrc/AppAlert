@@ -1,9 +1,9 @@
 [
     {
-      "id":22,
+      "id":23,
       "bundleId":"Cureton.DuplicateScore",
-      "title":"DupScore 3.2.3 ",
-      "text":"Coming Soon ",
+      "title":"DupScore 3.2.4 ",
+      "text":"Available for Download Now, Bug fix for scoring using AVG as first score entered. ",
       "confirmLabel":"OK",
       "link": {
           "title": "View more information",
