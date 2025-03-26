@@ -1,13 +1,13 @@
 [
     {
-      "id":23,
+      "id":24,
       "bundleId":"Cureton.DuplicateScore",
-      "title":"DupScore 3.2.4 ",
-      "text":"Available for Download Now, Bug fix for scoring using AVG as first score entered. ",
+      "title":"DupScore 3.2.5 Bug Identifed and Fix is processing for distribution ASAP.",
+      "text":"Crashes when Ace is the card led if entering bid details with leads. Work Around - Enter a King or x instead of Ace.",
       "confirmLabel":"OK",
       "link": {
-          "title": "View more information",
-          "url" : "https://www.dupscore.com/releases"
+          "title": "Product Website",
+          "url" : "https://www.dupscore.com"
           }
     }
 ]
