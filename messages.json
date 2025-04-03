@@ -1,13 +1,13 @@
 [
     {
-      "id":25,
+      "id":26,
       "bundleId":"Cureton.DuplicateScore",
-      "title":"DupScore 3.2.6 Update Available Now .",
-      "text":"Fixes Crash when Ace is the card led if entering bid details with leads.",
+      "title":"DupScore 3.2.7 Update Available Now .",
+      "text":"Fixes problems in scoring without bid details.",
       "confirmLabel":"OK",
       "link": {
           "title": "Product Website",
-          "url" : "https://www.dupscore.com"
+          "url" : "https://www.dupscore.com/releases"
           }
     }
 ]
