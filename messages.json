@@ -1,13 +1,13 @@
 [
     {
-      "id":27,
+      "id":28,
       "bundleId":"Cureton.DuplicateScore",
-      "title":"DupScore 3.2.7 Update Available Now .",
-      "text":"Fixes problems in scoring without bid details.",
+      "title":"DupScore Voice Enabled Scoring May be Removed in the next release.",
+      "text":"Please email support@dupScore.com if you are currently using this feature.",
       "confirmLabel":"OK",
       "link": {
-          "title": "Product Website",
-          "url" : "https://www.dupscore.com/releases"
+          "title": "Click this Link to Contact Us",
+          "url" : "https://www.dupscore.com/requirementvoice"
           }
     }
 ]
