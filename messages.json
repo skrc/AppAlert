@@ -2,12 +2,12 @@
     {
       "id":28,
       "bundleId":"Cureton.DuplicateScore",
-      "title":"DupScore Voice Enabled Scoring May be Removed in the next release.",
-      "text":"Please email support@dupScore.com if you are currently using this feature.",
+      "title":"DupScore 3.3 Available Soon",
+      "text":" ",
       "confirmLabel":"OK",
       "link": {
-          "title": "Click this Link to Contact Us",
-          "url" : "https://www.dupscore.com/requirementvoice"
+          "title": "Click this Link to Register for the DupScore User List",
+          "url" : "https://www.dupscore.com/userregistration"
           }
     }
 ]
