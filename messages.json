@@ -1,6 +1,6 @@
 [
     {
-      "id":29,
+      "id":0,
       "bundleId":"Cureton.DuplicateScore",
       "title":"DupScore 3.3 Available Soon",
       "text":" ",
@@ -8,6 +8,17 @@
       "link": {
           "title": "Click this Link to Register for the DupScore User List",
           "url" : "https://www.dupscore.com/userregistration"
+          }
+    }
+   {
+      "id":30,
+      "bundleId":"Cureton.DuplicateScore",
+      "title":"DupScore 3.3 Available Soon",
+      "text":" ",
+      "confirmLabel":"OK",
+      "link": {
+          "title": "Click this Link to Register for the DupScore User List",
+          "url" : "https://www.dupscore.com/releases"
           }
     }
 ]
