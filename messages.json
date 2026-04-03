@@ -1,12 +1,12 @@
 [
    {
-      "id":35,
+      "id":36,
       "bundleId":"Cureton.DuplicateScore",
-      "title":"DupScore 3.4.8 Available Now ",
-      "text":" ",
+      "title":"DupScore 3.4.8 Bug found ",
+      "text":" 3.4.8 will not score Vul bids correctly. Fix will be available shortly.",
       "confirmLabel":"OK",
       "link": {
-          "title": "Click this Link to See What's New! ",
+          "title": "Click this Link to See More ",
           "url" : "https://www.dupscore.com/releases"
           }
     }
