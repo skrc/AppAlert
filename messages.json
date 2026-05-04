@@ -1,12 +1,12 @@
 [
    {
-      "id":37,
+      "id":38,
       "bundleId":"Cureton.DuplicateScore",
-      "title":"DupScore 3.4.10 Available NOW  ",
-      "text":" Install Now Recommended",
+      "title":"IOS 18 may be required for DupScore in the near future.",
+      "text":"Please email support@dupscore.com if this is a concern for you.",
       "confirmLabel":"OK",
       "link": {
-          "title": "Click this Link to See More ",
+          "title": "Click this Link For Release Content ",
           "url" : "https://www.dupscore.com/releases"
           }
     }
