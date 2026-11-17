@@ -2,8 +2,8 @@
    {
       "id":38,
       "bundleId":"Cureton.DuplicateScore",
-      "title":"IOS 18 may be required for DupScore in the near future.",
-      "text":"Please email support@dupscore.com if this is a concern for you.",
+      "title":"Version 4.0",
+      "text":"IOS 18.6 is required for DupScore..",
       "confirmLabel":"OK",
       "link": {
           "title": "Click this Link For Release Content ",
